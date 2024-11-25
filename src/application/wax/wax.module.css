@@ -1,0 +1,9 @@
+.card {
+    width: 25%;
+    position: relative;
+    display: inline-block;
+}
+
+.info {
+    padding: 10px 0 10px;
+}
