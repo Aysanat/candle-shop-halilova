@@ -1,8 +1,8 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
-import Nav from './application/nav/nav';
-import Form from './application/form/form';
-import Wax from './application/wax/wax';
+import Nav from './components/nav/nav';
+import Form from './components/form/form';
+import Wax from './components/wax/wax';
 
 function App() {
   return (
